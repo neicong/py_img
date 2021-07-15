@@ -1,0 +1,178 @@
+DEBUG:PIL.TiffImagePlugin:tag: ImageWidth (256) - type: short (3) - value: b'\r\x80'
+DEBUG:PIL.TiffImagePlugin:tag: ImageLength (257) - type: short (3) - value: b'\x14@'
+DEBUG:PIL.TiffImagePlugin:tag: BitsPerSample (258) - type: short (3) Tag Location: 46 - Data Location: 182 - value: b'\x00\x08\x00\x08\x00\x08'
+DEBUG:PIL.TiffImagePlugin:tag: PhotometricInterpretation (262) - type: short (3) - value: b'\x00\x02'
+DEBUG:PIL.TiffImagePlugin:tag: Make (271) - type: string (2) Tag Location: 70 - Data Location: 188 - value: b'Canon\x00'
+DEBUG:PIL.TiffImagePlugin:tag: Model (272) - type: string (2) Tag Location: 82 - Data Location: 194 - value: b'Canon EOS-1D X\x00'
+DEBUG:PIL.TiffImagePlugin:tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+DEBUG:PIL.TiffImagePlugin:tag: SamplesPerPixel (277) - type: short (3) - value: b'\x00\x03'
+DEBUG:PIL.TiffImagePlugin:tag: XResolution (282) - type: rational (5) Tag Location: 118 - Data Location: 209 - value: b"\x00-\xc6\xc0\x00\x00'\x10"
+DEBUG:PIL.TiffImagePlugin:tag: YResolution (283) - type: rational (5) Tag Location: 130 - Data Location: 217 - value: b"\x00-\xc6\xc0\x00\x00'\x10"
+DEBUG:PIL.TiffImagePlugin:tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+DEBUG:PIL.TiffImagePlugin:tag: Software (305) - type: string (2) Tag Location: 154 - Data Location: 225 - value: <table: 34 bytes>
+DEBUG:PIL.TiffImagePlugin:tag: DateTime (306) - type: string (2) Tag Location: 166 - Data Location: 259 - value: b'2021:07:05 15:42:37\x00'
+DEBUG:PIL.TiffImagePlugin:tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x01\x18'
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'eXIf' 54 68
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 134 16384
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'eXIf' 54 68
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 134 16384
+DEBUG:PIL.TiffImagePlugin:tag: ImageWidth (256) - type: long (4) - value: b'\x00\x00\x048'
+DEBUG:PIL.TiffImagePlugin:tag: Model (272) - type: string (2) Tag Location: 34 - Data Location: 98 - value: b'YAL-AL00\x00'
+DEBUG:PIL.TiffImagePlugin:tag: ImageLength (257) - type: long (4) - value: b'\x00\x00\t$'
+DEBUG:PIL.TiffImagePlugin:tag: Make (271) - type: string (2) Tag Location: 58 - Data Location: 107 - value: b'HUAWEI\x00'
+DEBUG:PIL.TiffImagePlugin:tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00\x86'
+DEBUG:PIL.TiffImagePlugin:tag: Orientation (274) - type: short (3) - value: b'\x00\x00'
+DEBUG:PIL.TiffImagePlugin:tag: DateTime (306) - type: string (2) Tag Location: 94 - Data Location: 114 - value: b'2020:12:18 13:49:51\x00'
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 25
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 78 788
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 878 259675
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 8192
+DEBUG:PIL.TiffImagePlugin:tag: ImageWidth (256) - type: long (4) - value: b'\x00\x00\x048'
+DEBUG:PIL.TiffImagePlugin:tag: Model (272) - type: string (2) Tag Location: 34 - Data Location: 98 - value: b'YAL-AL00\x00'
+DEBUG:PIL.TiffImagePlugin:tag: ImageLength (257) - type: long (4) - value: b'\x00\x00\t$'
+DEBUG:PIL.TiffImagePlugin:tag: Make (271) - type: string (2) Tag Location: 58 - Data Location: 107 - value: b'HUAWEI\x00'
+DEBUG:PIL.TiffImagePlugin:tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00\x86'
+DEBUG:PIL.TiffImagePlugin:tag: Orientation (274) - type: short (3) - value: b'\x00\x00'
+DEBUG:PIL.TiffImagePlugin:tag: DateTime (306) - type: string (2) Tag Location: 94 - Data Location: 114 - value: b'2020:12:18 13:49:51\x00'
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 25
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 78 788
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 878 259675
+DEBUG:PIL.TiffImagePlugin:tag: ImageWidth (256) - type: short (3) - value: b'\r\x80'
+DEBUG:PIL.TiffImagePlugin:tag: ImageLength (257) - type: short (3) - value: b'\x14@'
+DEBUG:PIL.TiffImagePlugin:tag: BitsPerSample (258) - type: short (3) Tag Location: 46 - Data Location: 182 - value: b'\x00\x08\x00\x08\x00\x08'
+DEBUG:PIL.TiffImagePlugin:tag: PhotometricInterpretation (262) - type: short (3) - value: b'\x00\x02'
+DEBUG:PIL.TiffImagePlugin:tag: Make (271) - type: string (2) Tag Location: 70 - Data Location: 188 - value: b'Canon\x00'
+DEBUG:PIL.TiffImagePlugin:tag: Model (272) - type: string (2) Tag Location: 82 - Data Location: 194 - value: b'Canon EOS-1D X\x00'
+DEBUG:PIL.TiffImagePlugin:tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+DEBUG:PIL.TiffImagePlugin:tag: SamplesPerPixel (277) - type: short (3) - value: b'\x00\x03'
+DEBUG:PIL.TiffImagePlugin:tag: XResolution (282) - type: rational (5) Tag Location: 118 - Data Location: 209 - value: b"\x00-\xc6\xc0\x00\x00'\x10"
+DEBUG:PIL.TiffImagePlugin:tag: YResolution (283) - type: rational (5) Tag Location: 130 - Data Location: 217 - value: b"\x00-\xc6\xc0\x00\x00'\x10"
+DEBUG:PIL.TiffImagePlugin:tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+DEBUG:PIL.TiffImagePlugin:tag: Software (305) - type: string (2) Tag Location: 154 - Data Location: 225 - value: <table: 34 bytes>
+DEBUG:PIL.TiffImagePlugin:tag: DateTime (306) - type: string (2) Tag Location: 166 - Data Location: 259 - value: b'2021:07:05 15:42:37\x00'
+DEBUG:PIL.TiffImagePlugin:tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x01\x18'
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'eXIf' 54 68
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 134 16384
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'eXIf' 54 68
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 134 16384
+DEBUG:PIL.TiffImagePlugin:tag: ImageWidth (256) - type: long (4) - value: b'\x00\x00\x048'
+DEBUG:PIL.TiffImagePlugin:tag: Model (272) - type: string (2) Tag Location: 34 - Data Location: 98 - value: b'YAL-AL00\x00'
+DEBUG:PIL.TiffImagePlugin:tag: ImageLength (257) - type: long (4) - value: b'\x00\x00\t$'
+DEBUG:PIL.TiffImagePlugin:tag: Make (271) - type: string (2) Tag Location: 58 - Data Location: 107 - value: b'HUAWEI\x00'
+DEBUG:PIL.TiffImagePlugin:tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00\x86'
+DEBUG:PIL.TiffImagePlugin:tag: Orientation (274) - type: short (3) - value: b'\x00\x00'
+DEBUG:PIL.TiffImagePlugin:tag: DateTime (306) - type: string (2) Tag Location: 94 - Data Location: 114 - value: b'2020:12:18 13:49:51\x00'
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 25
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 78 788
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 878 259675
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 8192
+DEBUG:PIL.TiffImagePlugin:tag: ImageWidth (256) - type: long (4) - value: b'\x00\x00\x048'
+DEBUG:PIL.TiffImagePlugin:tag: Model (272) - type: string (2) Tag Location: 34 - Data Location: 98 - value: b'YAL-AL00\x00'
+DEBUG:PIL.TiffImagePlugin:tag: ImageLength (257) - type: long (4) - value: b'\x00\x00\t$'
+DEBUG:PIL.TiffImagePlugin:tag: Make (271) - type: string (2) Tag Location: 58 - Data Location: 107 - value: b'HUAWEI\x00'
+DEBUG:PIL.TiffImagePlugin:tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00\x86'
+DEBUG:PIL.TiffImagePlugin:tag: Orientation (274) - type: short (3) - value: b'\x00\x00'
+DEBUG:PIL.TiffImagePlugin:tag: DateTime (306) - type: string (2) Tag Location: 94 - Data Location: 114 - value: b'2020:12:18 13:49:51\x00'
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'tEXt' 41 25
+DEBUG:PIL.PngImagePlugin:STREAM b'iTXt' 78 788
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 878 259675
+INFO:root:[2021-07-15 14:07:59]:{"image_dir_path": "img/", "resImg": [{"id": 33808, "gat_id": 1416, "user_id": 111, "img_url": "https://cdnpic.iyorclf.cn/2021-07/14/1119phpNneoHp1626261074210714.jpg", "img_type": 1, "img_sort": "1", "created_at": "2021-07-14 19:12:09", "updated_at": "2021-07-14 19:12:09"}, {"id": 33809, "gat_id": 1416, "user_id": 111, "img_url": "https://cdnpic.iyorclf.cn/2021-07/14/5883php2EbBP91626261075210714.jpg", "img_type": 1, "img_sort": "2", "created_at": "2021-07-14 19:12:09", "updated_at": "2021-07-14 19:12:09"}, {"id": 33810, "gat_id": 1416, "user_id": 111, "img_url": "https://cdnpic.iyorclf.cn/2021-07/14/5501php0YcUVj1626261076210714.jpg", "img_type": 1, "img_sort": "3", "created_at": "2021-07-14 19:12:09", "updated_at": "2021-07-14 19:12:09"}, {"id": 33811, "gat_id": 1416, "user_id": 111, "img_url": "https://cdnpic.iyorclf.cn/2021-07/14/7356phpx7khya1626261077210714.png", "img_type": 1, "img_sort": "5", "created_at": "2021-07-14 19:12:09", "updated_at": "2021-07-14 19:12:09"}, {"id": 33812, "gat_id": 1416, "user_id": 111, "img_url": "https://cdnpic.iyorclf.cn/2021-07/14/3338phpynEu1N1626261077210714.jpg", "img_type": 1, "img_sort": "6", "created_at": "2021-07-14 19:12:09", "updated_at": "2021-07-14 19:12:09"}, {"id": 33813, "gat_id": 1416, "user_id": 111, "img_url": "https://cdnpic.iyorclf.cn/2021-07/14/7703phplM1aEd1626261078210714.png", "img_type": 1, "img_sort": "7", "created_at": "2021-07-14 19:12:09", "updated_at": "2021-07-14 19:12:09"}, {"id": 33814, "gat_id": 1416, "user_id": 111, "img_url": "https://cdnpic.iyorclf.cn/2021-07/14/8305phpG02HCq1626261079210714.jpg", "img_type": 1, "img_sort": "10", "created_at": "2021-07-14 19:12:09", "updated_at": "2021-07-14 19:12:09"}, {"id": 33815, "gat_id": 1416, "user_id": 111, "img_url": "https://cdnpic.iyorclf.cn/2021-07/14/1275phpcc547h1626261080210714.jpg", "img_type": 1, "img_sort": "12", "created_at": "2021-07-14 19:12:09", "updated_at": "2021-07-14 19:12:09"}, {"id": 33816, "gat_id": 1416, "user_id": 111, "img_url": "https://cdnpic.iyorclf.cn/2021-07/14/3522php0bzB5f1626261081210714.jpg", "img_type": 1, "img_sort": "14", "created_at": "2021-07-14 19:12:09", "updated_at": "2021-07-14 19:12:09"}, {"id": 33817, "gat_id": 1416, "user_id": 111, "img_url": "https://cdnpic.iyorclf.cn/2021-07/14/8414phpZ7MCx01626261096210714.jpg", "img_type": 1, "img_sort": "15", "created_at": "2021-07-14 19:12:09", "updated_at": "2021-07-14 19:12:09"}, {"id": 33818, "gat_id": 1416, "user_id": 111, "img_url": "https://cdnpic.iyorclf.cn/2021-07/14/1187php7APlGn1626261097210714.jpg", "img_type": 1, "img_sort": "16", "created_at": "2021-07-14 19:12:09", "updated_at": "2021-07-14 19:12:09"}, {"id": 33819, "gat_id": 1416, "user_id": 111, "img_url": "https://cdnpic.iyorclf.cn/2021-07/14/5854phpat9GUJ1626261097210714.jpg", "img_type": 1, "img_sort": "17", "created_at": "2021-07-14 19:12:09", "updated_at": "2021-07-14 19:12:09"}, {"id": 33820, "gat_id": 1416, "user_id": 111, "img_url": "https://cdnpic.iyorclf.cn/2021-07/14/3363phpSp5CpW1626261098210714.png", "img_type": 1, "img_sort": "19", "created_at": "2021-07-14 19:12:09", "updated_at": "2021-07-14 19:12:09"}, {"id": 33821, "gat_id": 1416, "user_id": 111, "img_url": "https://cdnpic.iyorclf.cn/2021-07/14/1279phpYmjU0O1626261099210714.jpg", "img_type": 1, "img_sort": "21", "created_at": "2021-07-14 19:12:09", "updated_at": "2021-07-14 19:12:09"}, {"id": 33822, "gat_id": 1416, "user_id": 111, "img_url": "https://cdnpic.iyorclf.cn/2021-07/14/8971phppb4YGu1626261100210714.png", "img_type": 1, "img_sort": "22", "created_at": "2021-07-14 19:12:09", "updated_at": "2021-07-14 19:12:09"}, {"id": 33823, "gat_id": 1416, "user_id": 111, "img_url": "https://cdnpic.iyorclf.cn/2021-07/14/8195phpMzYktW1626261101210714.jpg", "img_type": 1, "img_sort": "26", "created_at": "2021-07-14 19:12:09", "updated_at": "2021-07-14 19:12:09"}, {"id": 33824, "gat_id": 1416, "user_id": 111, "img_url": "https://cdnpic.iyorclf.cn/2021-07/14/4301phpx3rWQb1626261101210714.jpg", "img_type": 1, "img_sort": "28", "created_at": "2021-07-14 19:12:09", "updated_at": "2021-07-14 19:12:09"}, {"id": 33825, "gat_id": 1416, "user_id": 111, "img_url": "https://cdnpic.iyorclf.cn/2021-07/14/5458phprmxWj51626261102210714.jpg", "img_type": 1, "img_sort": "29", "created_at": "2021-07-14 19:12:09", "updated_at": "2021-07-14 19:12:09"}, {"id": 33826, "gat_id": 1416, "user_id": 111, "img_url": "https://cdnpic.iyorclf.cn/2021-07/14/9721phpU9ozi31626261108210714.jpg", "img_type": 1, "img_sort": "30", "created_at": "2021-07-14 19:12:09", "updated_at": "2021-07-14 19:12:09"}, {"id": 33827, "gat_id": 1416, "user_id": 111, "img_url": "https://cdnpic.iyorclf.cn/2021-07/14/4359phpFecQIs1626261109210714.jpg", "img_type": 1, "img_sort": "31", "created_at": "2021-07-14 19:12:09", "updated_at": "2021-07-14 19:12:09"}, {"id": 33828, "gat_id": 1416, "user_id": 111, "img_url": "https://cdnpic.iyorclf.cn/2021-07/14/9886phpq1MadR1626261110210714.jpg", "img_type": 1, "img_sort": "33", "created_at": "2021-07-14 19:12:09", "updated_at": "2021-07-14 19:12:09"}, {"id": 33829, "gat_id": 1416, "user_id": 111, "img_url": "https://cdnpic.iyorclf.cn/2021-07/14/7390phpa9t8K51626261110210714.png", "img_type": 1, "img_sort": "34", "created_at": "2021-07-14 19:12:09", "updated_at": "2021-07-14 19:12:09"}, {"id": 33830, "gat_id": 1416, "user_id": 111, "img_url": "https://cdnpic.iyorclf.cn/2021-07/14/4053php9IHDA01626261111210714.jpg", "img_type": 1, "img_sort": "35", "created_at": "2021-07-14 19:12:09", "updated_at": "2021-07-14 19:12:09"}], "data": {"bgh": "3000", "bgw": "3000", "row": "7", "cell": "35", "imgH": "352", "imgW": "317.15", "relH": null, "relW": null, "column": "5", "spacing": "50", "blankTop": "592", "textData": [], "blankLeft": "240"}, "dtime": 0.8307757377624512}
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): testpicserver.iyorclf.cn:443
+DEBUG:urllib3.connectionpool:https://testpicserver.iyorclf.cn:443 "POST /api/upload HTTP/1.1" 200 None
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'eXIf' 54 68
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 134 16384
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'eXIf' 54 68
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 134 16384
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'eXIf' 54 68
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 134 16384
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'eXIf' 54 68
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 134 16384
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'eXIf' 54 68
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 134 16384
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'eXIf' 54 68
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 134 16384
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'eXIf' 54 68
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 134 16384
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'eXIf' 54 68
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 134 16384
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'eXIf' 54 68
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 134 16384
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'eXIf' 54 68
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 134 16384
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'eXIf' 54 68
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 134 16384
+DEBUG:PIL.TiffImagePlugin:tag: ImageWidth (256) - type: short (3) - value: b'\r\x80'
+DEBUG:PIL.TiffImagePlugin:tag: ImageLength (257) - type: short (3) - value: b'\x14@'
+DEBUG:PIL.TiffImagePlugin:tag: BitsPerSample (258) - type: short (3) Tag Location: 46 - Data Location: 182 - value: b'\x00\x08\x00\x08\x00\x08'
+DEBUG:PIL.TiffImagePlugin:tag: PhotometricInterpretation (262) - type: short (3) - value: b'\x00\x02'
+DEBUG:PIL.TiffImagePlugin:tag: Make (271) - type: string (2) Tag Location: 70 - Data Location: 188 - value: b'Canon\x00'
+DEBUG:PIL.TiffImagePlugin:tag: Model (272) - type: string (2) Tag Location: 82 - Data Location: 194 - value: b'Canon EOS-1D X\x00'
+DEBUG:PIL.TiffImagePlugin:tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+DEBUG:PIL.TiffImagePlugin:tag: SamplesPerPixel (277) - type: short (3) - value: b'\x00\x03'
+DEBUG:PIL.TiffImagePlugin:tag: XResolution (282) - type: rational (5) Tag Location: 118 - Data Location: 209 - value: b"\x00-\xc6\xc0\x00\x00'\x10"
+DEBUG:PIL.TiffImagePlugin:tag: YResolution (283) - type: rational (5) Tag Location: 130 - Data Location: 217 - value: b"\x00-\xc6\xc0\x00\x00'\x10"
+DEBUG:PIL.TiffImagePlugin:tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+DEBUG:PIL.TiffImagePlugin:tag: Software (305) - type: string (2) Tag Location: 154 - Data Location: 225 - value: <table: 34 bytes>
+DEBUG:PIL.TiffImagePlugin:tag: DateTime (306) - type: string (2) Tag Location: 166 - Data Location: 259 - value: b'2021:07:05 15:42:37\x00'
+DEBUG:PIL.TiffImagePlugin:tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x01\x18'
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'eXIf' 54 68
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 134 16384
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'eXIf' 54 68
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 134 16384
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'eXIf' 54 68
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 134 16384
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'eXIf' 54 68
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 134 16384
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'eXIf' 54 68
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 134 16384
+INFO:root:[2021-07-15 14:09:21]:{"image_dir_path": "img/", "resImg": [{"id": 1560, "gat_id": 5, "user_id": 23, "img_url": "https://cdnpic.iyorclf.cn/2021-07/13/8786phpQT4rbW1626169098210713.png", "img_type": 1, "img_sort": "1", "created_at": "2021-06-10 16:14:45", "updated_at": "2021-06-10 16:14:45"}, {"id": 1561, "gat_id": 5, "user_id": 23, "img_url": "https://cdnpic.iyorclf.cn/2021-07/13/9367phpdKEQM31626168450210713.png", "img_type": 1, "img_sort": "2", "created_at": "2021-06-10 16:14:45", "updated_at": "2021-06-10 16:14:45"}, {"id": 1562, "gat_id": 5, "user_id": 23, "img_url": "https://cdnpic.iyorclf.cn/2021-07/13/5693phpFYY7Za1626169802210713.png", "img_type": 1, "img_sort": "3", "created_at": "2021-06-10 16:14:45", "updated_at": "2021-06-10 16:14:45"}, {"id": 1563, "gat_id": 5, "user_id": 23, "img_url": "https://cdnpic.iyorclf.cn/2021-07/13/5073phpsvgNOE1626169623210713.png", "img_type": 1, "img_sort": "4", "created_at": "2021-06-10 16:14:45", "updated_at": "2021-06-10 16:14:45"}, {"id": 1564, "gat_id": 5, "user_id": 23, "img_url": "https://cdnpic.iyorclf.cn/2021-07/13/3277phpQ4fFyz1626169598210713.png", "img_type": 1, "img_sort": "5", "created_at": "2021-06-10 16:14:45", "updated_at": "2021-06-10 16:14:45"}, {"id": 1565, "gat_id": 5, "user_id": 23, "img_url": "https://cdnpic.iyorclf.cn/2021-07/13/1827phpzxYOX01626169888210713.png", "img_type": 1, "img_sort": "6", "created_at": "2021-06-10 16:14:45", "updated_at": "2021-06-10 16:14:45"}, {"id": 1566, "gat_id": 5, "user_id": 23, "img_url": "https://cdnpic.iyorclf.cn/2021-07/13/7726php92wsrR1626168378210713.png", "img_type": 1, "img_sort": "7", "created_at": "2021-06-10 16:14:45", "updated_at": "2021-06-10 16:14:45"}, {"id": 1567, "gat_id": 5, "user_id": 23, "img_url": "https://cdnpic.iyorclf.cn/2021-07/13/9880phpAg65wx1626168366210713.png", "img_type": 1, "img_sort": "8", "created_at": "2021-06-10 16:14:45", "updated_at": "2021-06-10 16:14:45"}, {"id": 1568, "gat_id": 5, "user_id": 23, "img_url": "https://cdnpic.iyorclf.cn/2021-07/13/4026phpgUGjuo1626168351210713.png", "img_type": 1, "img_sort": "9", "created_at": "2021-06-10 16:14:45", "updated_at": "2021-06-10 16:14:45"}, {"id": 1569, "gat_id": 5, "user_id": 22, "img_url": "https://cdnpic.iyorclf.cn/2021-07/13/3935phpg3iN2F1626169295210713.png", "img_type": 1, "img_sort": "11", "created_at": "2021-06-11 10:10:31", "updated_at": "2021-06-11 10:10:31"}, {"id": 1570, "gat_id": 5, "user_id": 22, "img_url": "https://cdnpic.iyorclf.cn/2021-07/13/5293php6rQ8a31626170349210713.png", "img_type": 1, "img_sort": "12", "created_at": "2021-06-11 10:10:31", "updated_at": "2021-06-11 10:10:31"}, {"id": 1571, "gat_id": 5, "user_id": 22, "img_url": "https://cdnpic.iyorclf.cn/2021-07/13/6980phpgpkrXE1626169210210713.jpg", "img_type": 1, "img_sort": "13", "created_at": "2021-06-11 10:10:31", "updated_at": "2021-06-11 10:10:31"}, {"id": 1572, "gat_id": 5, "user_id": 22, "img_url": "https://cdnpic.iyorclf.cn/2021-07/13/6002phpPB7m3n1626168170210713.png", "img_type": 1, "img_sort": "14", "created_at": "2021-06-11 10:10:31", "updated_at": "2021-06-11 10:10:31"}, {"id": 1573, "gat_id": 5, "user_id": 22, "img_url": "https://cdnpic.iyorclf.cn/2021-07/13/7408phpwxB3fP1626168189210713.png", "img_type": 1, "img_sort": "15", "created_at": "2021-06-11 10:10:31", "updated_at": "2021-06-11 10:10:31"}, {"id": 1574, "gat_id": 5, "user_id": 22, "img_url": "https://cdnpic.iyorclf.cn/2021-07/13/2222phpCX6gNG1626168895210713.png", "img_type": 1, "img_sort": "16", "created_at": "2021-06-11 10:10:31", "updated_at": "2021-06-11 10:10:31"}, {"id": 1575, "gat_id": 5, "user_id": 22, "img_url": "https://cdnpic.iyorclf.cn/2021-07/13/7614phpuWavUM1626168785210713.png", "img_type": 1, "img_sort": "17", "created_at": "2021-06-11 10:10:31", "updated_at": "2021-06-11 10:10:31"}, {"id": 1576, "gat_id": 5, "user_id": 22, "img_url": "https://cdnpic.iyorclf.cn/2021-07/13/5686php0VHx1q1626168116210713.png", "img_type": 1, "img_sort": "18", "created_at": "2021-06-11 10:10:31", "updated_at": "2021-06-11 10:10:31"}], "data": {"bgh": "2272", "bgw": "2272", "row": "3", "cell": "9", "imgH": "722", "imgW": "722", "relH": null, "relW": null, "column": "3", "spacing": "55", "blankTop": "0", "textData": [], "blankLeft": "0"}, "dtime": 1.1619040966033936}
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): testpicserver.iyorclf.cn:443
+DEBUG:urllib3.connectionpool:https://testpicserver.iyorclf.cn:443 "POST /api/upload HTTP/1.1" 200 None
+2021-07-15 14:22:35,807 - Logger.py[line:31] - INFO: {"image_dir_path": "img/", "resImg": [{"id": 1560, "gat_id": 5, "user_id": 23, "img_url": "https://cdnpic.iyorclf.cn/2021-07/13/8786phpQT4rbW1626169098210713.png", "img_type": 1, "img_sort": "1", "created_at": "2021-06-10 16:14:45", "updated_at": "2021-06-10 16:14:45"}, {"id": 1561, "gat_id": 5, "user_id": 23, "img_url": "https://cdnpic.iyorclf.cn/2021-07/13/9367phpdKEQM31626168450210713.png", "img_type": 1, "img_sort": "2", "created_at": "2021-06-10 16:14:45", "updated_at": "2021-06-10 16:14:45"}, {"id": 1562, "gat_id": 5, "user_id": 23, "img_url": "https://cdnpic.iyorclf.cn/2021-07/13/5693phpFYY7Za1626169802210713.png", "img_type": 1, "img_sort": "3", "created_at": "2021-06-10 16:14:45", "updated_at": "2021-06-10 16:14:45"}, {"id": 1563, "gat_id": 5, "user_id": 23, "img_url": "https://cdnpic.iyorclf.cn/2021-07/13/5073phpsvgNOE1626169623210713.png", "img_type": 1, "img_sort": "4", "created_at": "2021-06-10 16:14:45", "updated_at": "2021-06-10 16:14:45"}, {"id": 1564, "gat_id": 5, "user_id": 23, "img_url": "https://cdnpic.iyorclf.cn/2021-07/13/3277phpQ4fFyz1626169598210713.png", "img_type": 1, "img_sort": "5", "created_at": "2021-06-10 16:14:45", "updated_at": "2021-06-10 16:14:45"}, {"id": 1565, "gat_id": 5, "user_id": 23, "img_url": "https://cdnpic.iyorclf.cn/2021-07/13/1827phpzxYOX01626169888210713.png", "img_type": 1, "img_sort": "6", "created_at": "2021-06-10 16:14:45", "updated_at": "2021-06-10 16:14:45"}, {"id": 1566, "gat_id": 5, "user_id": 23, "img_url": "https://cdnpic.iyorclf.cn/2021-07/13/7726php92wsrR1626168378210713.png", "img_type": 1, "img_sort": "7", "created_at": "2021-06-10 16:14:45", "updated_at": "2021-06-10 16:14:45"}, {"id": 1567, "gat_id": 5, "user_id": 23, "img_url": "https://cdnpic.iyorclf.cn/2021-07/13/9880phpAg65wx1626168366210713.png", "img_type": 1, "img_sort": "8", "created_at": "2021-06-10 16:14:45", "updated_at": "2021-06-10 16:14:45"}, {"id": 1568, "gat_id": 5, "user_id": 23, "img_url": "https://cdnpic.iyorclf.cn/2021-07/13/4026phpgUGjuo1626168351210713.png", "img_type": 1, "img_sort": "9", "created_at": "2021-06-10 16:14:45", "updated_at": "2021-06-10 16:14:45"}, {"id": 1569, "gat_id": 5, "user_id": 22, "img_url": "https://cdnpic.iyorclf.cn/2021-07/13/3935phpg3iN2F1626169295210713.png", "img_type": 1, "img_sort": "11", "created_at": "2021-06-11 10:10:31", "updated_at": "2021-06-11 10:10:31"}, {"id": 1570, "gat_id": 5, "user_id": 22, "img_url": "https://cdnpic.iyorclf.cn/2021-07/13/5293php6rQ8a31626170349210713.png", "img_type": 1, "img_sort": "12", "created_at": "2021-06-11 10:10:31", "updated_at": "2021-06-11 10:10:31"}, {"id": 1571, "gat_id": 5, "user_id": 22, "img_url": "https://cdnpic.iyorclf.cn/2021-07/13/6980phpgpkrXE1626169210210713.jpg", "img_type": 1, "img_sort": "13", "created_at": "2021-06-11 10:10:31", "updated_at": "2021-06-11 10:10:31"}, {"id": 1572, "gat_id": 5, "user_id": 22, "img_url": "https://cdnpic.iyorclf.cn/2021-07/13/6002phpPB7m3n1626168170210713.png", "img_type": 1, "img_sort": "14", "created_at": "2021-06-11 10:10:31", "updated_at": "2021-06-11 10:10:31"}, {"id": 1573, "gat_id": 5, "user_id": 22, "img_url": "https://cdnpic.iyorclf.cn/2021-07/13/7408phpwxB3fP1626168189210713.png", "img_type": 1, "img_sort": "15", "created_at": "2021-06-11 10:10:31", "updated_at": "2021-06-11 10:10:31"}, {"id": 1574, "gat_id": 5, "user_id": 22, "img_url": "https://cdnpic.iyorclf.cn/2021-07/13/2222phpCX6gNG1626168895210713.png", "img_type": 1, "img_sort": "16", "created_at": "2021-06-11 10:10:31", "updated_at": "2021-06-11 10:10:31"}, {"id": 1575, "gat_id": 5, "user_id": 22, "img_url": "https://cdnpic.iyorclf.cn/2021-07/13/7614phpuWavUM1626168785210713.png", "img_type": 1, "img_sort": "17", "created_at": "2021-06-11 10:10:31", "updated_at": "2021-06-11 10:10:31"}, {"id": 1576, "gat_id": 5, "user_id": 22, "img_url": "https://cdnpic.iyorclf.cn/2021-07/13/5686php0VHx1q1626168116210713.png", "img_type": 1, "img_sort": "18", "created_at": "2021-06-11 10:10:31", "updated_at": "2021-06-11 10:10:31"}], "data": {"bgh": "2272", "bgw": "2272", "row": "3", "cell": "9", "imgH": "722", "imgW": "722", "relH": null, "relW": null, "column": "3", "spacing": "55", "blankTop": "0", "textData": [], "blankLeft": "0"}, "dtime": 1.3189620971679688}
+2021-07-15 14:26:41,640 - Logger.py[line:34] - INFO: {"image_dir_path": "img/", "resImg": [{"id": 1560, "gat_id": 5, "user_id": 23, "img_url": "https://cdnpic.iyorclf.cn/2021-07/13/8786phpQT4rbW1626169098210713.png", "img_type": 1, "img_sort": "1", "created_at": "2021-06-10 16:14:45", "updated_at": "2021-06-10 16:14:45"}, {"id": 1561, "gat_id": 5, "user_id": 23, "img_url": "https://cdnpic.iyorclf.cn/2021-07/13/9367phpdKEQM31626168450210713.png", "img_type": 1, "img_sort": "2", "created_at": "2021-06-10 16:14:45", "updated_at": "2021-06-10 16:14:45"}, {"id": 1562, "gat_id": 5, "user_id": 23, "img_url": "https://cdnpic.iyorclf.cn/2021-07/13/5693phpFYY7Za1626169802210713.png", "img_type": 1, "img_sort": "3", "created_at": "2021-06-10 16:14:45", "updated_at": "2021-06-10 16:14:45"}, {"id": 1563, "gat_id": 5, "user_id": 23, "img_url": "https://cdnpic.iyorclf.cn/2021-07/13/5073phpsvgNOE1626169623210713.png", "img_type": 1, "img_sort": "4", "created_at": "2021-06-10 16:14:45", "updated_at": "2021-06-10 16:14:45"}, {"id": 1564, "gat_id": 5, "user_id": 23, "img_url": "https://cdnpic.iyorclf.cn/2021-07/13/3277phpQ4fFyz1626169598210713.png", "img_type": 1, "img_sort": "5", "created_at": "2021-06-10 16:14:45", "updated_at": "2021-06-10 16:14:45"}, {"id": 1565, "gat_id": 5, "user_id": 23, "img_url": "https://cdnpic.iyorclf.cn/2021-07/13/1827phpzxYOX01626169888210713.png", "img_type": 1, "img_sort": "6", "created_at": "2021-06-10 16:14:45", "updated_at": "2021-06-10 16:14:45"}, {"id": 1566, "gat_id": 5, "user_id": 23, "img_url": "https://cdnpic.iyorclf.cn/2021-07/13/7726php92wsrR1626168378210713.png", "img_type": 1, "img_sort": "7", "created_at": "2021-06-10 16:14:45", "updated_at": "2021-06-10 16:14:45"}, {"id": 1567, "gat_id": 5, "user_id": 23, "img_url": "https://cdnpic.iyorclf.cn/2021-07/13/9880phpAg65wx1626168366210713.png", "img_type": 1, "img_sort": "8", "created_at": "2021-06-10 16:14:45", "updated_at": "2021-06-10 16:14:45"}, {"id": 1568, "gat_id": 5, "user_id": 23, "img_url": "https://cdnpic.iyorclf.cn/2021-07/13/4026phpgUGjuo1626168351210713.png", "img_type": 1, "img_sort": "9", "created_at": "2021-06-10 16:14:45", "updated_at": "2021-06-10 16:14:45"}, {"id": 1569, "gat_id": 5, "user_id": 22, "img_url": "https://cdnpic.iyorclf.cn/2021-07/13/3935phpg3iN2F1626169295210713.png", "img_type": 1, "img_sort": "11", "created_at": "2021-06-11 10:10:31", "updated_at": "2021-06-11 10:10:31"}, {"id": 1570, "gat_id": 5, "user_id": 22, "img_url": "https://cdnpic.iyorclf.cn/2021-07/13/5293php6rQ8a31626170349210713.png", "img_type": 1, "img_sort": "12", "created_at": "2021-06-11 10:10:31", "updated_at": "2021-06-11 10:10:31"}, {"id": 1571, "gat_id": 5, "user_id": 22, "img_url": "https://cdnpic.iyorclf.cn/2021-07/13/6980phpgpkrXE1626169210210713.jpg", "img_type": 1, "img_sort": "13", "created_at": "2021-06-11 10:10:31", "updated_at": "2021-06-11 10:10:31"}, {"id": 1572, "gat_id": 5, "user_id": 22, "img_url": "https://cdnpic.iyorclf.cn/2021-07/13/6002phpPB7m3n1626168170210713.png", "img_type": 1, "img_sort": "14", "created_at": "2021-06-11 10:10:31", "updated_at": "2021-06-11 10:10:31"}, {"id": 1573, "gat_id": 5, "user_id": 22, "img_url": "https://cdnpic.iyorclf.cn/2021-07/13/7408phpwxB3fP1626168189210713.png", "img_type": 1, "img_sort": "15", "created_at": "2021-06-11 10:10:31", "updated_at": "2021-06-11 10:10:31"}, {"id": 1574, "gat_id": 5, "user_id": 22, "img_url": "https://cdnpic.iyorclf.cn/2021-07/13/2222phpCX6gNG1626168895210713.png", "img_type": 1, "img_sort": "16", "created_at": "2021-06-11 10:10:31", "updated_at": "2021-06-11 10:10:31"}, {"id": 1575, "gat_id": 5, "user_id": 22, "img_url": "https://cdnpic.iyorclf.cn/2021-07/13/7614phpuWavUM1626168785210713.png", "img_type": 1, "img_sort": "17", "created_at": "2021-06-11 10:10:31", "updated_at": "2021-06-11 10:10:31"}, {"id": 1576, "gat_id": 5, "user_id": 22, "img_url": "https://cdnpic.iyorclf.cn/2021-07/13/5686php0VHx1q1626168116210713.png", "img_type": 1, "img_sort": "18", "created_at": "2021-06-11 10:10:31", "updated_at": "2021-06-11 10:10:31"}], "data": {"bgh": "2272", "bgw": "2272", "row": "3", "cell": "9", "imgH": "722", "imgW": "722", "relH": null, "relW": null, "column": "3", "spacing": "55", "blankTop": "0", "textData": [], "blankLeft": "0"}, "dtime": 1.2052769660949707}
