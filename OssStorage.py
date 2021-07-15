@@ -2,7 +2,7 @@
 import oss2
 class OssStorage:
     def __init__(self):
-        self.auth = oss2.Auth('LTAI4GGAs1EyNgFnepHpaqQi', '3KfcHzyS6ifVsG5IHPsLZopkw1tJdq')
+        self.auth = oss2.Auth('', '')
 
     def ossDownload(self,url,file):
 
