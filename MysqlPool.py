@@ -14,13 +14,26 @@ class MysqlPool:
     #     'cursorclass': pymysql.cursors.DictCursor
     # }
     # 测试环境
+    # config = {
+    #     'creator': pymysql,
+    #     'host': '127.0.0.1',
+    #     'port': 3306,
+    #     'user': 'sql_pic_tdcm88',
+    #     'password': 'AAtnhr8pPPJcFdTZ',
+    #     'db': 'sql_pic_tdcm88',
+    #     'charset': 'utf8',
+    #     'maxconnections': 10,  # 连接池最大连接数量
+    #     'cursorclass': pymysql.cursors.DictCursor
+    # }
+
+    # 正式环境
     config = {
         'creator': pymysql,
-        'host': '127.0.0.1',
+        'host': 'rm-uf6p32e62h6f51rr333150.mysql.rds.aliyuncs.com',
         'port': 3306,
-        'user': 'sql_pic_tdcm88',
-        'password': 'AAtnhr8pPPJcFdTZ',
-        'db': 'sql_pic_tdcm88',
+        'user': 'picserver',
+        'password': 'syBnmWdCcrJXX27b',
+        'db': 'picserver',
         'charset': 'utf8',
         'maxconnections': 10,  # 连接池最大连接数量
         'cursorclass': pymysql.cursors.DictCursor
